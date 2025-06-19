@@ -1,0 +1,9 @@
+[package]
+name = "polymorph"
+version = "0.1.0"
+edition = "2021"
+authors = ["Christopher Adams"]
+
+[dependencies]
+mcap = "0.7"
+clap = { version = "4.5", features = ["derive"] }
