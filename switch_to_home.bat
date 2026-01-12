@@ -1,0 +1,1 @@
+"C:\Program Files\Python310\python.exe" "C:\data\programming\github\python-scratchpad\switch_to_home.py"
